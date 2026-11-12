@@ -1,0 +1,113 @@
+{
+  "voice": "pf_dora",
+  "speechTarget": 262,
+  "tts": {
+    "2.5": "Em um experimento publicado em dois mil e seis, pesquisadores compararam estudar novamente com tentar recuperar o conteúdo sem consultar o material.",
+    "5.4": "Durante o sono, especialmente em determinadas fases do sono não rem, padrões de atividade ligados a experiências recentes podem ser reativados."
+  },
+  "sections": [
+    {
+      "id": 1, "title": "O gancho", "start": 0, "end": 27,
+      "sentences": [
+        "Você pode passar a tarde inteira estudando e, mesmo assim, perceber amanhã que muita coisa sumiu.",
+        "E o mais perigoso?",
+        "Enquanto lê e relê suas anotações, pode sentir que está aprendendo muito.",
+        "Só que reconhecer uma frase não é a mesma coisa que conseguir explicá-la sem olhar.",
+        "Existe uma diferença enorme entre parecer que sabe e realmente saber.",
+        "E ela muda completamente a maneira de estudar."
+      ]
+    },
+    {
+      "id": 2, "title": "A primeira surpresa", "start": 27, "end": 72,
+      "sentences": [
+        "Imagine duas pessoas estudando o mesmo capítulo.",
+        "A primeira relê o texto várias vezes.",
+        "A segunda alterna a leitura com tentativas de reconstruir o conteúdo de memória, sem consultar o material.",
+        "Qual delas vai lembrar mais daqui a uma semana?",
+        "Em um experimento publicado em 2006, pesquisadores compararam estudar novamente com tentar recuperar o conteúdo sem consultar o material.",
+        "No teste imediato, estudar de novo podia até levar vantagem.",
+        "Mas, depois de dois dias e de uma semana, quem tinha praticado a recuperação lembrava mais.",
+        "Esse fenômeno é chamado de efeito do teste.",
+        "Fazer perguntas a si mesmo não serve apenas para medir o conhecimento: também ajuda a fortalecê-lo."
+      ]
+    },
+    {
+      "id": 3, "title": "Na prática", "start": 72, "end": 105,
+      "sentences": [
+        "E aqui está a primeira mudança prática: depois de estudar um trecho, feche o material.",
+        "Pergunte: quais eram as três ideias principais?",
+        "Como eu explicaria isso para alguém?",
+        "Consigo resolver um exemplo sem copiar o modelo?",
+        "Tente responder antes de conferir.",
+        "Errou?",
+        "Ótimo: encontrou exatamente o ponto que precisa revisar.",
+        "Mas não transforme isso em adivinhação interminável.",
+        "Consulte a resposta, corrija o erro e tente recuperá-la novamente depois.",
+        "A dificuldade deve ser real, mas possível de superar."
+      ]
+    },
+    {
+      "id": 4, "title": "O efeito do espaçamento", "start": 105, "end": 149,
+      "sentences": [
+        "Agora vem uma descoberta que parece contrariar nossa intuição: estudar tudo de uma vez costuma ser pior para a memória de longo prazo do que distribuir o mesmo esforço em sessões separadas.",
+        "Esse é o chamado efeito do espaçamento.",
+        "Uma grande revisão científica reuniu centenas de experimentos e mostrou que separar as sessões favorece a retenção.",
+        "E não existe um intervalo mágico que sirva para todo mundo.",
+        "O melhor espaço depende de quanto tempo você precisa guardar aquela informação.",
+        "Para uma prova daqui a semanas, por exemplo, faz mais sentido reencontrar o conteúdo em vários dias do que tentar resolver tudo numa única maratona."
+      ]
+    },
+    {
+      "id": 5, "title": "A revelação do sono", "start": 149, "end": 187,
+      "sentences": [
+        "E o que acontece entre uma sessão e outra?",
+        "Você dorme.",
+        "Enquanto parece que o cérebro desligou, ele continua trabalhando.",
+        "Durante o sono, especialmente em determinadas fases do sono não REM, padrões de atividade ligados a experiências recentes podem ser reativados.",
+        "Esse processo participa da consolidação da memória: o cérebro estabiliza e reorganiza o que foi aprendido, conectando novas informações ao conhecimento que já existe.",
+        "Dormir não substitui estudar.",
+        "Mas sacrificar o sono para ganhar mais uma hora de leitura pode comprometer parte do que você acabou de aprender."
+      ]
+    },
+    {
+      "id": 6, "title": "Prática intercalada", "start": 187, "end": 230,
+      "sentences": [
+        "Há mais um erro comum: praticar sempre o mesmo tipo de questão em sequência.",
+        "No começo, agrupar exercícios parecidos pode ajudar você a entender o procedimento.",
+        "Mas, depois que compreendeu o básico, misturar problemas de tipos relacionados pode treinar uma habilidade diferente: perceber qual estratégia usar em cada situação.",
+        "É a prática intercalada.",
+        "Em vez de receber dez questões iguais, você encontra uma de cada tipo e precisa identificar o caminho.",
+        "Isso pode parecer mais difícil porque ninguém avisa qual fórmula usar.",
+        "E justamente aí está parte do aprendizado: reconhecer a diferença entre problemas que, à primeira vista, parecem iguais."
+      ]
+    },
+    {
+      "id": 7, "title": "A virada", "start": 230, "end": 272,
+      "sentences": [
+        "Percebe o padrão?",
+        "As estratégias mais úteis nem sempre são as que fazem você se sentir mais inteligente durante o estudo.",
+        "Reler é confortável porque a resposta está diante dos olhos.",
+        "Recuperar de memória exige esforço.",
+        "Espaçar sessões significa aceitar que você talvez esqueça um pouco antes de tentar novamente.",
+        "Misturar exercícios impede que você entre no piloto automático.",
+        "Pesquisadores chamam esse tipo de obstáculo produtivo de dificuldade desejável.",
+        "Mas atenção: dificuldade não é sinônimo de confusão.",
+        "Se você não consegue começar, volte à explicação, peça um exemplo e reduza o desafio.",
+        "Depois tente de novo sem ajuda."
+      ]
+    },
+    {
+      "id": 8, "title": "O ciclo", "start": 272, "end": 300,
+      "sentences": [
+        "Então experimente este ciclo: estude um trecho, feche o material e explique o que lembra.",
+        "Confira e corrija.",
+        "Retorne ao assunto em outro dia e misture questões relacionadas quando já dominar o básico.",
+        "Depois, durma.",
+        "Não é um atalho para aprender instantaneamente.",
+        "É uma forma de fazer a memória trabalhar a seu favor.",
+        "Porque estudar não é só colocar informação na cabeça.",
+        "É conseguir encontrá-la quando você precisa."
+      ]
+    }
+  ]
+}
